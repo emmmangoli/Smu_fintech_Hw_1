@@ -5,7 +5,7 @@
 
 Affirm is a publicly traded company. It is headquartered in San Francisco.  Affirm is a Buy Now, Pay Later company founded in 2012 by Max Levchin (CEO), Jeffrey Kaditz, and Nathan Gettings. 
 
-![bnpl](images/Affirm2.jpeg)
+![bnpl](Images/Affirm2.jpeg)
 
 Affirms customers can pay over time with term lengths from six weeks to 60 months. Split pay, Affirm’s biweekly pay-in-4 option, is always interest-free. Affirm’s monthly payment options can be interest-free or interest-bearing with simple interest ranging from a 0% to 30% APR. Simple interest means the interest is based on a fixed percentage that never compounds, so customers never owe a penny more than what they agree to at checkout. 
 
