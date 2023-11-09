@@ -18,7 +18,7 @@ According to Investopedia, affirm is a type of short-term financing that allows 
 
 According to Yahoo finance, affirm offers a buy now, pay later service as an alternative to traditional credits which does a hard pull of your credit. Affirm (AFRM) has a market cap of $6.56B and trading at $21.46 as at the time of writing this. Affirm gives customers the option to shop different merchants and pay in a secure and transparent way at checkout. 
 
-![checkout](images/checkout%20system.jpeg)
+![checkout](Images/checkout%20system.jpeg)
 
 # Business activities:
 
